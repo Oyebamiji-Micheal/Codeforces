@@ -1,2 +1,2 @@
-# Codeforces
-Practicing Algorithms and Data Structures with Codeforces
+# Practicing Data Structures and Algorithms with Codeforces
+A more descriptive readme will be added soon
