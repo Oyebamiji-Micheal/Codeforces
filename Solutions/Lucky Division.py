@@ -1,6 +1,6 @@
 def checker():
     num = int(input())
-    lucky = [4, 47, 447, 474, 477, 444, 7, 74, 774, 747, 744, 777]
+    lucky = {4, 47, 447, 474, 477, 444, 7, 74, 774, 747, 744, 777}
     if num in lucky:
         return "YES"
     else:
