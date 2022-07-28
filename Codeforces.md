@@ -4,3 +4,4 @@
 | 2   | [String Task](https://codeforces.com/contest/118/problem/A)  | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/A.%20String%20Task.py) | Python  | 1000  | Implementation / String / Set
 | 3   | [New Year Candles](https://codeforces.com/problemset/problem/379/A) | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/New%20Year%20Candles.py) | Python  | 1000  | Implementation
 | 4   | [Young Physicist](https://codeforces.com/contest/69/problem/A)    | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Young%20Physicist.py)    | Python   |    1000  | Math / Implementation
+| 5   | [Chat room](https://codeforces.com/contest/58/problem/A)    | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Chat%20room.py)  | Python  | 1000  | Greedy / Strings  |
