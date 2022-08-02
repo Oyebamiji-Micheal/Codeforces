@@ -11,3 +11,4 @@
 | 6   | [Lucky Division](https://codeforces.com/problemset/problem/122/A)   | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Lucky%20Division.py)   | Python  | 1000  | Brute Force
 | 7   | [Expression](https://codeforces.com/problemset/problem/479/A)   | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Expression.py) | Python |  1000  | Brute Force, Math |
 | 8   | [cAPS lOCK](https://codeforces.com/contest/131/problem/A)   | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/cAPS%20lOCK.py)    | Python    | 1000  | Implementation, Strings
+| 9   | [Punctuation](https://codeforces.com/problemset/problem/147/A)    | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Punctuation.py)  | Python  | 1300  | Implementation, Strings
