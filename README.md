@@ -12,3 +12,4 @@
 | 7   | [Expression](https://codeforces.com/problemset/problem/479/A)   | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Expression.py) | Python |  1000  | Brute Force, Math |
 | 8   | [cAPS lOCK](https://codeforces.com/contest/131/problem/A)   | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/cAPS%20lOCK.py)    | Python    | 1000  | Implementation, Strings
 | 9   | [Punctuation](https://codeforces.com/problemset/problem/147/A)    | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Punctuation.py)  | Python  | 1300  | Implementation, Strings
+| 10  | [From S To T](https://codeforces.com/problemset/problem/1194/C) | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/From%20S%20To%20T.py)   |  Python  | 1300  | Strings, Implementation, Greedy  |
