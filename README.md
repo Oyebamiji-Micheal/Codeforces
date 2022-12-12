@@ -14,3 +14,4 @@
 | 9   | [Punctuation](https://codeforces.com/problemset/problem/147/A)    | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Punctuation.py)  | Python  | 1300  | Implementation, Strings
 | 10  | [From S To T](https://codeforces.com/problemset/problem/1194/C) | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/From%20S%20To%20T.py)   |  Python  | 1300  | Strings, Implementation, Greedy  |
 | 11  | [Replacing Digits](https://codeforces.com/contest/169/problem/B) | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Replacing%20Digits.py)   |  Python  | 1100  | Greedy  |
+| 12  | [Chewbaсca and Number](https://codeforces.com/problemset/problem/514/A) | [Solution](https://github.com/Oyebamiji-Micheal/Codeforces/blob/master/Solutions/Chewbacca%and%20Number.py)   |  Python  | 1200  | Greedy  |
